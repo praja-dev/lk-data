@@ -25,3 +25,18 @@ PID,SID,ID,Name,Name_SI,Name_TA
 12,11,59,Mahara Divisional Secretariat,මහර ප්‍රාදේශීය ලේකම් කාර්යාලය,மஹர பிரதேச செயலகம்
 12,12,60,Kelaniya Divisional Secretariat,කැලණිය ප්‍රාදේශීය ලේකම් කාර්යාලය,களனி பிரதேச செயலகம்
 12,13,61,Biyagama Divisional Secretariat,බියගම ප්‍රාදේශීය ලේකම් කාර්යාලය,பியகம பிரதேச செயலகம்
+13,1,62,Panadura Divisional Secretariat,පානදුර ප්‍රාදේශීය ලේකම් කාර්යාලය,பாணடுற பிரதேச செயலகம்
+13,2,63,Bandaragama Divisional Secretariat,බණ්ඩාරගම ප්‍රාදේශීය ලේකම් කාර්යාලය,பண்டாரகம பிரதேச செயலகம்
+13,3,64,Horana Divisional Secretariat,හොරන ප්‍රාදේශීය ලේකම් කාර්යාලය,ஹொரண பிரதேச செயலகம்
+13,4,65,Ingiriya Divisional Secretariat,ඉංගිරිය ප්‍රාදේශීය ලේකම් කාර්යාලය,இங்கிரிய பிரதேச செயலகம்
+13,5,66,Bulathsinhala Divisional Secretariat,බුලත්සිංහල ප්‍රාදේශීය ලේකම් කාර්යාලය,புலத்சிங்கள பிரதேச செயலகம்
+13,6,67,Madurawala Divisional Secretariat,මදුරාවල ප්‍රාදේශීය ලේකම් කාර්යාලය,மதுரவளை பிரதேச செயலகம்
+13,7,68,Millaniya Divisional Secretariat,මිල්ලනිය ප්‍රාදේශීය ලේකම් කාර්යාලය,மில்லனியா பிரதேச செயலகம்
+13,8,69,Kalutara Divisional Secretariat,කළුතර ප්‍රාදේශීය ලේකම් කාර්යාලය,களுத்துறை பிரதேச செயலகம்
+13,9,70,Beruwala Divisional Secretariat,බේරුවල ප්‍රාදේශීය ලේකම් කාර්යාලය,பேருவளை பிரதேச செயலகம்
+13,10,71,Dodangoda Divisional Secretariat,දොඩංගොඩ ප්‍රාදේශීය ලේකම් කාර්යාලය,தொடங்கொட பிரதேச செயலகம்
+13,11,72,Mathugama Divisional Secretariat,මතුගම ප්‍රාදේශීය ලේකම් කාර්යාලය,மாத்துகம பிரதேச செயலகம்
+13,12,73,Agalawatta Divisional Secretariat,අගලවත්ත ප්‍රාදේශීය ලේකම් කාර්යාලය,அகலவத்தை பிரதேச செயலகம்
+13,13,74,Palindanuwara Divisional Secretariat,පාලින්දනුවර ප්‍රාදේශීය ලේකම් කාර්යාලය,பாலிந்தனுார பிரதேச செயலகம்
+13,14,75,Walallavita Divisional Secretariat,වලල්ලවිට ප්‍රාදේශීය ලේකම් කාර්යාලය,வலல்லவிட்ட பிரதேச செயலகம்
+14,,,,,
