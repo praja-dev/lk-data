@@ -4,7 +4,7 @@ PID,SID,ID,Name,Name_SI,Name_TA
 11,3,38,Kaduwela Divisional Secretariat,කඩුවෙල ප්‍රාදේශීය ලේකම් කාර්යාලය,கடுவலை பிரதேச செயலகம்
 11,4,39,Homagama Divisional Secretariat,හෝමාගම ප්‍රාදේශීය ලේකම් කාර්යාලය,ஹோமாகம பிரதேச செயலகம்
 11,5,40,Hanwella Divisional Secretariat,හංවැල්ල ප්‍රාදේශීය ලේකම් කාර්යාලය,ஹன்வெல்ல பிரதேச செயலகம்
-11,6,41,Padukka Divisional Secretariat,පදුක්ක ප්‍රාදේශීය ලේකම් කාර්යාලය,பதுக்க பிரதேச செயலகம்
+11,6,41,Padukka Divisional Secretariat,පාදුක්ක ප්‍රාදේශීය ලේකම් කාර්යාලය,பதுக்க பிரதேச செயலகம்
 11,7,42,Maharagama Divisional Secretariat,මහරගම ප්‍රාදේශීය ලේකම් කාර්යාලය,மஹரகம பிரதேச செயலகம்
 11,8,43,Sri Jayawardanapura Kotte Divisional Secretariat,ශ්‍රී ජයවර්ධනපුර කෝට්ටේ ප්‍රාදේශීය ලේකම් කාර්යාලය,ஸ்ரீ ஜயவர்தனபுர கோட்டை பிரதேச செயலகம்
 11,9,44,Thimbirigasyaya Divisional Secretariat,තිඹිරිගස්යාය ප්‍රාදේශීය ලේකම් කාර්යාලය,திம்பிரிகசாய பிரதேச செயலகம்
@@ -12,3 +12,16 @@ PID,SID,ID,Name,Name_SI,Name_TA
 11,11,46,Ratmalana Divisional Secretariat,රත්මලාන ප්‍රාදේශීය ලේකම් කාර්යාලය,ரத்மலான பிரதேச செயலகம்
 11,12,47,Moratuwa Divisional Secretariat,මොරටුව ප්‍රාදේශීය ලේකම් කාර්යාලය,மொறட்டுவ பிரதேச செயலகம்
 11,13,48,Kesbewa Divisional Secretariat,කැස්බෑව ප්‍රාදේශීය ලේකම් කාර්යාලය,கெஸ்பேவ பிரதேச செயலகம்
+12,1,49,Negombo Divisional Secretariat,මීගමුව ප්‍රාදේශීය ලේකම් කාර්යාලය,நெகோம்போ பிரதேச செயலகம்
+12,2,50,Katana Divisional Secretariat,කටාන ප්‍රාදේශීය ලේකම් කාර්යාලය,கடான பிரதேச செயலகம்
+12,3,51,Divulapitiya Divisional Secretariat,දිවුලපිටිය ප්‍රාදේශීය ලේකම් කාර්යාලය,திவுலபிட்டிய பிரதேச செயலகம்
+12,4,52,Mirigama Divisional Secretariat,මීරිගම ප්‍රාදේශීය ලේකම් කාර්යාලය,மிரிகம பிரதேச செயலகம்
+12,5,53,Minuwangoda Divisional Secretariat,මිනුවන්ගොඩ ප්‍රාදේශීය ලේකම් කාර්යාලය,மினுவாங்கொடை பிரதேச செயலகம்
+12,6,54,Wattala Divisional Secretariat,වත්තල ප්‍රාදේශීය ලේකම් කාර්යාලය,வத்தளை பிரதேச செயலகம்
+12,7,55,Ja-Ela Divisional Secretariat,ජාඇල ප්‍රාදේශීය ලේකම් කාර්යාලය,ஜா-எல பிரதேச செயலகம்
+12,8,56,Gampaha Divisional Secretariat,ගම්පහ ප්‍රාදේශීය ලේකම් කාර්යාලය,கம்பஹா பிரதேச செயலகம்
+12,9,57,Attanagalla Divisional Secretariat,අත්තනගල්ල ප්‍රාදේශීය ලේකම් කාර්යාලය,அத்தனகல்ல பிரதேச செயலகம்
+12,10,58,Dompe Divisional Secretariat,දොම්පේ ප්‍රාදේශීය ලේකම් කාර්යාලය,தொம்பே பிரதேச செயலகம்
+12,11,59,Mahara Divisional Secretariat,මහර ප්‍රාදේශීය ලේකම් කාර්යාලය,மஹர பிரதேச செயலகம்
+12,12,60,Kelaniya Divisional Secretariat,කැලණිය ප්‍රාදේශීය ලේකම් කාර්යාලය,களனி பிரதேச செயலகம்
+12,13,61,Biyagama Divisional Secretariat,බියගම ප්‍රාදේශීය ලේකම් කාර්යාලය,பியகம பிரதேச செயலகம்
