@@ -10,3 +10,6 @@
 # Allow LICENSE and README files in the root directory only.
 !/LICENSE
 !/README.md
+
+# Administrative divisions
+!/administrative/*.csv
