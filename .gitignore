@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Allow subdirectories
+!*/
+
+# Allow this .gitignore file and the ones in subdirectories
+!/.gitignore
+
+# Allow LICENSE and README files in the root directory only.
+!/LICENSE
+!/README.md
