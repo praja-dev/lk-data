@@ -2,10 +2,10 @@
 
 ## Administrative Divisions
 
-* Provinces - 9
-* Districts - 25
-* Divisional Secretariat Divisions (DS Divisions)
-* Grama Niladhari Divisions (GN Divisions)
+* [Provinces](administrative/provinces.csv) - 9
+* [Districts](administrative/districts.csv) - 25
+* [DS Divisions](administrative/ds-divisions.csv) (Divisional Secretariat) - 331
+* [GN Divisions](administrative/gn-divisions.csv) (Grama Niladhari) - 14, 022
 
 ## Electoral Divisions
 
