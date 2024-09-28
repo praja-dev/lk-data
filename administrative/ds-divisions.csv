@@ -39,4 +39,23 @@ PID,SID,ID,Name,Name_SI,Name_TA
 13,12,73,Agalawatta Divisional Secretariat,අගලවත්ත ප්‍රාදේශීය ලේකම් කාර්යාලය,அகலவத்தை பிரதேச செயலகம்
 13,13,74,Palindanuwara Divisional Secretariat,පාලින්දනුවර ප්‍රාදේශීය ලේකම් කාර්යාලය,பாலிந்தனுார பிரதேச செயலகம்
 13,14,75,Walallavita Divisional Secretariat,වලල්ලවිට ප්‍රාදේශීය ලේකම් කාර්යාලය,வலல்லவிட்ட பிரதேச செயலகம்
-14,,,,,
+14,1,76,Thumpane Divisional Secretariat,තුම්පනේ ප්‍රාදේශීය ලේකම් කාර්යාලය,தும்பான பிரதேச செயலகம்
+14,2,77,Poojapitiya Divisional Secretariat,පූජාපිටිය ප්‍රාදේශීය ලේකම් කාර්යාලය,பூஜாபிட்டிய பிரதேச செயலகம்
+14,3,78,Akurana Divisional Secretariat,අකුරණ ප්‍රාදේශීය ලේකම් කාර්යාලය,அக்குறண பிரதேச செயலகம்
+14,4,79,Pathadumbara Divisional Secretariat,පාතදුම්බර ප්‍රාදේශීය ලේකම් කාර්යාලය,பாததும்பர பிரதேச செயலகம்
+14,5,80,Panvila Divisional Secretariat,පන්විල ප්‍රාදේශීය ලේකම් කාර්යාලය,பன்வில பிரதேச செயலகம்
+14,6,81,Udadumbara Divisional Secretariat,උඩදුම්බර ප්‍රාදේශීය ලේකම් කාර්යාලය,உடதும்பர பிரதேச செயலகம்
+14,7,82,Minipe Divisional Secretariat,මිනිපේ ප්‍රාදේශීය ලේකම් කාර්යාලය,மினிப்பே பிரதேச செயலகம்
+14,8,83,Medadumbara Divisional Secretariat,මැදදුම්බර ප්‍රාදේශීය ලේකම් කාර්යාලය,மத்திய தும்பர பிரதேச செயலகம்
+14,9,84,Kundasale Divisional Secretariat,කුන්ඩසාලේ ප්‍රාදේශීය ලේකම් කාර්යාලය,குண்டசால பிரதேச செயலகம்
+14,10,85,Kandy Four Gravets & Gangawata Korale Divisional Secretariat,මහනුවර කඩවත් සතර සහ ගඟවටකෝරළේ ප්‍රාදේශීය ලේකම් කාර්යාලය,கண்டி நான்கு பிரதேச செயலகம் மற்றும் கங்காவத்தை கோரளை
+14,11,86,Harispattuwa Divisional Secretariat,හාරිස්පත්තුව ප්‍රාදේශීය ලේකම් කාර්යාලය,ஹரிஸ்பத்துவ பிரதேச செயலகம்
+14,12,87,Hatharaliyadda Divisional Secretariat,හතරලියද්ද ප්‍රාදේශීය ලේකම් කාර්යාලය,ஹதரலியத்த பிரதேச செயலகம்
+14,13,88,Yatinuwara Divisional Secretariat,යටිනුවර ප්‍රාදේශීය ලේකම් කාර්යාලය,யடினுவற பிரதேச செயலகம்
+14,14,89,Udunuwara Divisional Secretariat,උඩුනුවර ප්‍රාදේශීය ලේකම් කාර්යාලය,உடுநுவர பிரதேச செயலகம்
+14,15,90,Doluwa Divisional Secretariat,දොළුව ප්‍රාදේශීය ලේකම් කාර්යාලය,தொளுவ பிரதேச செயலகம்
+14,16,91,Pathahewaheta Divisional Secretariat,පාතහේවාහැට ප්‍රාදේශීය ලේකම් කාර්යාලය,பாதஹேவஹேத பிரதேச செயலகம்
+14,17,92,Delthota Divisional Secretariat,දෙල්තොට ප්‍රාදේශීය ලේකම් කාර්යාලය,தெல்தொட்ட பிரதேச செயலகம்
+14,18,93,Udapalatha Divisional Secretariat,උඩපාලත ප්‍රාදේශීය ලේකම් කාර්යාලය,உடபாலத பிரதேச செயலகம்
+14,19,94,Ganga Ihala Korale Divisional Secretariat,ගඟ ඉහළ කොරළේ ප්‍රාදේශීය ලේකම් කාර්යාලය,கங்கா இகல கோரளை பிரதேச செயலகம்
+14,20,95,Pasbage Korale Divisional Secretariat,පස්බාගේ කොරළේ ප්‍රාදේශීය ලේකම් කාර්යාලය,பஸ்பகே கோரளை பிரதேச செயலகம்
