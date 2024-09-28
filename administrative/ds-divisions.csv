@@ -48,7 +48,7 @@ PID,SID,ID,Name,Name_SI,Name_TA
 14,7,82,Minipe Divisional Secretariat,මිනිපේ ප්‍රාදේශීය ලේකම් කාර්යාලය,மினிப்பே பிரதேச செயலகம்
 14,8,83,Medadumbara Divisional Secretariat,මැදදුම්බර ප්‍රාදේශීය ලේකම් කාර්යාලය,மத்திய தும்பர பிரதேச செயலகம்
 14,9,84,Kundasale Divisional Secretariat,කුන්ඩසාලේ ප්‍රාදේශීය ලේකම් කාර්යාලය,குண்டசால பிரதேச செயலகம்
-14,10,85,Kandy Four Gravets & Gangawata Korale Divisional Secretariat,මහනුවර කඩවත් සතර සහ ගඟවටකෝරළේ ප්‍රාදේශීය ලේකම් කාර්යාලය,கண்டி நான்கு பிரதேச செயலகம் மற்றும் கங்காவத்தை கோரளை
+14,10,85,Kandy Four Gravets & Gangawata Korale Divisional Secretariat,මහනුවර කඩවත් සතර සහ ගඟවට කෝරළේ ප්‍රාදේශීය ලේකම් කාර්යාලය,கண்டி நான்கு பிரதேச செயலகம் மற்றும் கங்காவத்தை கோரளை
 14,11,86,Harispattuwa Divisional Secretariat,හාරිස්පත්තුව ප්‍රාදේශීය ලේකම් කාර්යාලය,ஹரிஸ்பத்துவ பிரதேச செயலகம்
 14,12,87,Hatharaliyadda Divisional Secretariat,හතරලියද්ද ප්‍රාදේශීය ලේකම් කාර්යාලය,ஹதரலியத்த பிரதேச செயலகம்
 14,13,88,Yatinuwara Divisional Secretariat,යටිනුවර ප්‍රාදේශීය ලේකම් කාර්යාලය,யடினுவற பிரதேச செயலகம்
@@ -92,7 +92,7 @@ PID,SID,ID,Name,Name_SI,Name_TA
 17,10,126,Welivitiya-Divithura Divisional Secretariat,වැලිවිටිය-දෙවිතුර ප්‍රාදේශීය ලේකම් කාර්යාලය,வெலிவிட்டிய-திவிதுற பிரதேச செயலகம்
 17,11,127,Ambalangoda Divisional Secretariat,අම්බලන්ගොඩ ප්‍රාදේශීය ලේකම් කාර්යාලය,அம்பலாங்கொடை பிரதேச செயலகம்
 17,12,128,Hikkaduwa Divisional Secretariat,හික්කඩුව ප්‍රාදේශීය ලේකම් කාර්යාලය,ஹிக்கடுவ பிரதேச செயலகம்
-17,13,129,Galle Four Gravets Divisional Secretariat,කඩවත්සතර ප්‍රාදේශීය ලේකම් කාර්යාලය,காலி நான்கு பிரதேச செயலகம்
+17,13,129,Galle Four Gravets Divisional Secretariat,ගාල්ල කඩවත් සතර ප්‍රාදේශීය ලේකම් කාර්යාලය,காலி நான்கு பிரதேச செயலகம்
 17,14,130,Bope-Poddala Divisional Secretariat,බෝපේ-පොද්දල ප්‍රාදේශීය ලේකම් කාර්යාලය,போபே-பொத்தல பிரதேச செயலகம்
 17,15,131,Akmeemana Divisional Secretariat,අක්මීමන ප්‍රාදේශීය ලේකම් කාර්යාලය,அக்மீமன பிரதேச செயலகம்
 17,16,132,Yakkalamulla Divisional Secretariat,යක්කලමුල්ල ප්‍රාදේශීය ලේකම් කාර්යාලය,யக்கலமுல்ல பிரதேச செயலகம்
@@ -115,6 +115,6 @@ PID,SID,ID,Name,Name_SI,Name_TA
 18,11,149,Kirinda Puhulwella Divisional Secretariat,කිරින්ද පුහුල්වැල්ල ප්‍රාදේශීය ලේකම් කාර්යාලය,கிரிந்தா புகுல்வெல்ல பிரதேச செயலகம்
 18,12,150,Thihagoda Divisional Secretariat,තිහගොඩ ප්‍රාදේශීය ලේකම් කාර්යාලය,திஹகொட பிரதேச செயலகம்
 18,13,151,Weligama Divisional Secretariat,වැලිගම ප්‍රාදේශීය ලේකම් කාර්යාලය,வெலிகாம பிரதேச செயலகம்
-18,14,152,Matara Four Gravets Divisional Secretariat,මාතර කඩවත්සතර ප්‍රාදේශීය ලේකම් කාර්යාලය,நான்கு பிரதேச செயலகம்
+18,14,152,Matara Four Gravets Divisional Secretariat,මාතර කඩවත් සතර ප්‍රාදේශීය ලේකම් කාර්යාලය,நான்கு பிரதேச செயலகம்
 18,15,153,Devinuwara Divisional Secretariat,දෙවිනුවර ප්‍රාදේශීය ලේකම් කාර්යාලය,தேவினுவர பிரதேச செயலகம்
 18,16,154,Dickwella Divisional Secretariat,දික්වැල්ල ප්‍රාදේශීය ලේකම් කාර්යාලය,திக்குவெல பிரதேச செயலகம்
