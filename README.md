@@ -12,3 +12,7 @@
 * Electoral Districts - 22
 * Polling Divisions
 * Polling Districts
+
+## Languages
+
+* [Sinhala Tamil Letters](lang/sinhala-tamil-letters.csv)

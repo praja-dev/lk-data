@@ -13,3 +13,6 @@
 
 # Administrative divisions
 !/administrative/*.csv
+
+# Languages
+!/lang/*.csv
