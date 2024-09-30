@@ -12,7 +12,7 @@
 !/README.md
 
 # Administrative divisions
-!/administrative/*.csv
+!/admin/*.csv
 
 # Languages
 !/lang/*.csv
