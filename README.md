@@ -21,8 +21,9 @@ LIFe stands for Lanka Interoperability Framework.
 * `25` [Districts](admin/L2-DISTRICT.csv)
 * `331` [DS (Divisional Secretariat) Divisions](admin/L3-DSD.csv)
 * `14,022` GN (Grama Niladhari) Divisions
-  + [Colombo District](admin/L4-GND-01-COLOMBO.csv) `557`GNDs,   `13`DSDs
-  + [Gampaha District](admin/L4-GND-02-GAMPAHA.csv) `1177`GNDs,   `13`DSDs
+  + [Colombo District](admin/L4-GND-01-COLOMBO.csv) `557`GNDs,    `13`DSDs
+  + [Gampaha District](admin/L4-GND-02-GAMPAHA.csv) `1177`GNDs,    `13`DSDs
+  + [Kalutara District](admin/L4-GND-03-KALUTARA.csv) `762`GNDs,    `14`DSDs
 
 ### Electoral Divisions
 
