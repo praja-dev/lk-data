@@ -9,9 +9,9 @@ Base data for Sri Lanka under a Public Domain CC0 license.
 Abbreviations used:
 * `PID` - _Parent ID_ points to another object in this dataset
 * `SID` - _Sequence ID_ within sibling objects
-* `OID` - _Object ID_ unique across all objects in the Administrative Divisions dataset
-* `LLO` - _LIFe Location Code_ unique across Sri Lanka government datasets
-* `LCO` - _LIFe Code_ within sibling objects
+* `ID` - _ID_ unique across all objects in the Administrative Divisions dataset
+* `EID` - _External ID_ the `LIFe Location Code` is used here, which is unique across Sri Lanka government datasets
+* `ESID` - _External Sequence ID_ within sibling objects: the `LIFe Code` is used here
 
 LIFe stands for Lanka Interoperability Framework.
 
@@ -21,9 +21,9 @@ LIFe stands for Lanka Interoperability Framework.
 * `25` [Districts](admin/L2-DISTRICT.csv)
 * `331` [DS (Divisional Secretariat) Divisions](admin/L3-DSD.csv)
 * `14,022` GN (Grama Niladhari) Divisions
-  + [Colombo District](admin/L4-GND-01-COLOMBO.csv) `557`GNDs,    `13`DSDs
-  + [Gampaha District](admin/L4-GND-02-GAMPAHA.csv) `1177`GNDs,    `13`DSDs
-  + [Kalutara District](admin/L4-GND-03-KALUTARA.csv) `762`GNDs,    `14`DSDs
+  + [Colombo District](admin/L4-GND-01-COLOMBO.csv) `557`GNDs,     `13`DSDs
+  + [Gampaha District](admin/L4-GND-02-GAMPAHA.csv) `1177`GNDs,     `13`DSDs
+  + [Kalutara District](admin/L4-GND-03-KALUTARA.csv) `762`GNDs,     `14`DSDs
 
 ### Electoral Divisions
 
